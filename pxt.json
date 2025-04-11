@@ -1,0 +1,47 @@
+{
+    "name": "Just Kill",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "sprite-scaling": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "browser-events": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.48",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f5edba",
+        "#C50215",
+        "#d26471",
+        "#e4943a",
+        "#c0c741",
+        "#313D1A",
+        "#34859d",
+        "#17434b",
+        "#1A0F0A",
+        "#584563",
+        "#B8008D",
+        "#3e2137",
+        "#000000",
+        "#341E14",
+        "#1f0e1c"
+    ]
+}
